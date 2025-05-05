@@ -79,8 +79,8 @@ This research is open and ongoing. Contributions, suggestions, or alternative mo
 
 📬 Contact
 Author: Mohammed Geabel
-📧 mohammed.geabel@ogr.sakarya.edu.tr
-🔗 LinkedIn (optional)
+📧 Mohamedgabel1@gmail.com
+🔗 LinkedIn (https://www.linkedin.com/in/mohammed-geabel-9b60921b5/)
 
 📜 License
 This project is licensed under the MIT License.
