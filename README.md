@@ -1,4 +1,4 @@
-# 🧠 Earthquake Magnitude Prediction & Analysis (Türkiye - 1914 to 2023)
+# 🧠 Earthquake Magnitude Prediction & Analysis (Türkiye - 1994 to 2023)
 
 This repository contains a complete workflow for analyzing historical earthquake data in Türkiye and reconstructing missing `Mw` (Moment Magnitude) values using machine learning.
 
