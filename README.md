@@ -77,6 +77,13 @@ Folium (for mapping)
 🤝 Contributing
 This research is open and ongoing. Contributions, suggestions, or alternative modeling approaches are welcome. Feel free to fork the repo and submit a pull request!
 
+
+🔗 Project Links
+•	📦 GitHub (Code & Notebooks): https://github.com/mo-geabel/Analysis-earthquakes-in-Turkiye/blob/main/README.md
+•	🗺️ Interactive Earthquake Map: https://drive.google.com/drive/folders/16NH2Vh6igP0TsWKHFzTndo4RVobktPti?usp=sharing
+
+
+
 📬 Contact
 Author: Mohammed Geabel
 📧 Mohamedgabel1@gmail.com
